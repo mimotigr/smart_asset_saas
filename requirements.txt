@@ -1,0 +1,8 @@
+streamlit
+pandas
+matplotlib
+sqlalchemy
+psycopg2-binary
+flask
+stripe
+openpyxl
